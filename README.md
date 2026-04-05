@@ -155,18 +155,16 @@ Key outputs:
 ## 📁 Repository Structure
 
 ```
-project-name/
+Green_Finance_Simulations/
 │
 ├── README.md
 ├── requirements.txt
-│
-├── src/
-    ├── data_generator.py
-    ├── auction.py
-    ├── rewards.py
-    ├── market_params.py
-    ├── utils.py
-    ├── main.py
+├── data_generator.py
+├── auction.py
+├── rewards.py
+├── market_params.py
+├── utils.py
+├── main.py
 ```
 
 ---
