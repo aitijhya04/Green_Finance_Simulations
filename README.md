@@ -160,27 +160,13 @@ project-name/
 ├── README.md
 ├── requirements.txt
 │
-├── data/
-│   ├── raw/
-│   ├── processed/
-│
 ├── src/
-│   ├── data_generator.py
-│   ├── auction.py
-│   ├── rewards.py
-│   ├── market_params.py
-│   ├── utils.py
-│   ├── main.py
-│
-├── notebooks/
-│   ├── exploratory_analysis.ipynb
-│
-├── results/
-│   ├── figures/
-│   ├── tables/
-│
-└── paper/
-    └── final_report.pdf
+    ├── data_generator.py
+    ├── auction.py
+    ├── rewards.py
+    ├── market_params.py
+    ├── utils.py
+    ├── main.py
 ```
 
 ---
