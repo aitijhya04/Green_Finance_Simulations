@@ -215,7 +215,7 @@ To reproduce results:
 
 ## 🎓 Faculty Supervisor
 
-* **Prof.Aditya Sharma** *
+* **Prof.Aditya Sharma** 
 
 ---
 
